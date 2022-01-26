@@ -1,3 +1,10 @@
+//
+// Created by Max Mishin on 1/26/2022.
+//
+
+#ifndef ALGORITHM_TASKS_FIRST_BAD_VERSION_H
+#define ALGORITHM_TASKS_FIRST_BAD_VERSION_H
+
 // The API isBadVersion is defined.
 bool isBadVersion(int version);
 
@@ -18,3 +25,5 @@ public:
         return right;
     }
 };
+
+#endif //ALGORITHM_TASKS_FIRST_BAD_VERSION_H
