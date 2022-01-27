@@ -1,7 +1,3 @@
-//
-// Created by User on 1/26/2022.
-//
-
 #ifndef ALGORITHM_TASKS_SORT_AND_STAR_H
 #define ALGORITHM_TASKS_SORT_AND_STAR_H
 

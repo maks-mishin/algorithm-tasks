@@ -1,6 +1,6 @@
-//
-// Created by Max Mishin on 1/26/2022.
-//
+// Source : https://leetcode.com/problems/first-bad-version/
+// Author : Maks Mishin
+// Date   : 2022-01-26
 
 #ifndef ALGORITHM_TASKS_FIRST_BAD_VERSION_H
 #define ALGORITHM_TASKS_FIRST_BAD_VERSION_H
