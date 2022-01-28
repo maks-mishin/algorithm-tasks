@@ -1,3 +1,7 @@
+// Source : https://www.codewars.com/kata/57cfdf34902f6ba3d300001e
+// Author : Maks Mishin
+// Date   : 1/26/2022
+
 #ifndef ALGORITHM_TASKS_SORT_AND_STAR_H
 #define ALGORITHM_TASKS_SORT_AND_STAR_H
 

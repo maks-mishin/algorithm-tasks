@@ -1,6 +1,6 @@
 // Source : https://leetcode.com/problems/contains-duplicate/
 // Author : Maks Mishin
-// Date   : 2022-01-27
+// Date   : 1/27/2022
 
 #ifndef ALGORITHM_TASKS_CONTAINS_DUPLICATE_H
 #define ALGORITHM_TASKS_CONTAINS_DUPLICATE_H

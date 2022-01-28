@@ -1,5 +1,5 @@
 // Author : Maks Mishin
-// Date   : 2022-01-27
+// Date   : 1/27/2022
 
 #ifndef ALGORITHM_TASKS_PRINT_CONTAINERS_H
 #define ALGORITHM_TASKS_PRINT_CONTAINERS_H
