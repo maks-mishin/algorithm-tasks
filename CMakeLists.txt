@@ -3,6 +3,6 @@ project(algorithm_tasks)
 
 set(CMAKE_CXX_STANDARD 17)
 
-set(src main.cpp utils/print_containers.h codewars/perimeter_squares_rectangle.h)
+set(src main.cpp utils/print_containers.h)
 
 add_executable(${PROJECT_NAME} ${src})
