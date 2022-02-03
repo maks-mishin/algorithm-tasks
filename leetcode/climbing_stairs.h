@@ -1,8 +1,9 @@
+// Source : https://leetcode.com/problems/climbing-stairs/
 // Author : Maks Mishin
 // Date   : 2/1/2022
 
-#ifndef ALGORITHM_TASKS_CLIMB_STAIRS_H
-#define ALGORITHM_TASKS_CLIMB_STAIRS_H
+#ifndef ALGORITHM_TASKS_CLIMBING_STAIRS_H
+#define ALGORITHM_TASKS_CLIMBING_STAIRS_H
 
 class Solution {
 public:
@@ -17,4 +18,4 @@ public:
     }
 };
 
-#endif //ALGORITHM_TASKS_CLIMB_STAIRS_H
+#endif //ALGORITHM_TASKS_CLIMBING_STAIRS_H
